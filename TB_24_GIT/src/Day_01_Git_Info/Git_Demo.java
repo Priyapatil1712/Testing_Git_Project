@@ -14,6 +14,12 @@ public class Git_Demo
 		System.out.println("In Git M2");
 	}
 	
+	public void m3()
+	{
+		
+		System.out.println("In Git M3");
+	}
+	
 	public static void main(String[] args) 
 	{
 		System.out.println("Git Demo");
