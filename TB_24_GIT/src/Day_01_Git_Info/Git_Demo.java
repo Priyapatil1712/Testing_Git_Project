@@ -20,6 +20,11 @@ public class Git_Demo
 		System.out.println("In Git M3");
 	}
 	
+	public void m4()
+	{
+		
+		System.out.println("In Git M4");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("Git Demo");
